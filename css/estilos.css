@@ -1,0 +1,14 @@
+.blur {
+    -webkit-filter: blur(10px);
+    filter: blur(10px);
+}
+
+.grises {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.sepia {
+    -webkit-filter: sepia(90%);
+    filter: sepia(90%);
+}
