@@ -1,3 +1,17 @@
+body{
+    background-color: #02010a;
+}
+
+#contenido{
+    width: 900px;
+}
+
+header{
+    
+}
+
+
+
 .blur {
     -webkit-filter: blur(10px);
     filter: blur(10px);
