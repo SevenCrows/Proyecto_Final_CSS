@@ -176,6 +176,40 @@ img {
         text-align: right;
         order: 2;
     }
+    /*imagenes de paisaje y retratos*/
+    #subcontenedor {
+        display: flex;
+        flex-direction: column;
+    }
+    #contenedorsec1,
+    #contenedorsec2 {
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 2%;
+    }
+    #contenedorsec1 img,
+    #contenedorsec2 img {
+        width: 90%;
+        
+    }
+    #img1 {
+        order: 1;
+    }
+    #img2 {
+        order: 2;
+    }
+    #img3 {
+        order: 3;
+    }
+    #img4 {
+        order: 1;
+    }
+    #img5 {
+        order: 2;
+    }
+    #img6 {
+        order: 3;
+    }
     /*distribucion de cajas*/
     #paisajes {
         padding-bottom: 2%;
@@ -220,6 +254,38 @@ img {
         display: flex;
         flex-direction: column;
     }
+    
+    /*imagenes de paisaje y retratos*/
+    #subcontenedor {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #contenedorsec1 img,
+    #contenedorsec2 img {
+        width: 90%;
+        margin-top: 4%;
+        margin-bottom: 4%;
+    }
+    #img1 {
+        order: 1;
+    }
+    #img2 {
+        order: 2;
+    }
+    #img3 {
+        order: 3;
+    }
+    #img4 {
+        order: 1;
+    }
+    #img5 {
+        order: 2;
+    }
+    #img6 {
+        order: 3;
+    }
+    
     /*distribucion de cajas*/
     #paisajes {
         padding-bottom: 5%;
